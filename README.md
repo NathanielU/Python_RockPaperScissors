@@ -9,6 +9,15 @@ Possible moves: Rock, Paper, or Scissors.
 + Paper covers rock.
 + Rock crushes scissors.
 
+### Versions
+#### Version 1.0
++ Modules/libraries used: *math, random* and *colorama*
+#### Version 1.1
++ Cleaner script
++ Texts are revealed in a cooler way
++ Used *system(‘cls’)* for a cleaner look of the terminal/screen
++ Modules/libraries used: *sys, math, os, random, time,* and *colorama*
+
 ---
 #### About the game/program
 This little game/program was my first Python project after learning some Python fundamentals.
